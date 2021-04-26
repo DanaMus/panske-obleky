@@ -59,3 +59,11 @@ h1.site-title span {
   stroke: #000;
   stroke-width: 2;
 }
+
+.color-option__box {
+  background-color: white;
+  width: 25px;
+  height: 25px;
+  border-radius: 30px;
+  box-shadow: 2px 2px 2px 2px grey;
+}
